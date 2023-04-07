@@ -48,6 +48,7 @@ All the links provided in this list are free available material. The rights belo
 - [Switching-Mode Power Supply Design Problem List](https://web.archive.org/web/20181017224614/http://www.smpstech.com/problems.htm) - Archived page from SPMPSTech.com by Jerrold Foutz
 - [Biricha](https://www.biricha.com) - Good articles and videos by Dr. Ali Shirsavar 
 - [Christophe Basso's home page](https://cbasso.pagesperso-orange.fr/Spice.htm) - Home page of C. Basso, well known for his books on SMPS Spice simulation and converter control
+- :tv: [Robert Bolanos](https://www.youtube.com/@RobertBolanos/videos)
 
 ## Vendors resources
 
